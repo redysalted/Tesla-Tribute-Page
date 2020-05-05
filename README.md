@@ -1,1 +1,1 @@
-This is a tribute page for Nicola Tesla. This is the first page I have built from the ground up using just HTML+CSS.
+This is a tribute page for Nikola Tesla. This is the first page I have built from the ground up using just HTML+CSS.
